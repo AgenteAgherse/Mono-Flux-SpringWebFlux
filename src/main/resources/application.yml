@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: PrimerTaller
+
+logging:
+  level:
+    root: error
